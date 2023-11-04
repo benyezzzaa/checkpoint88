@@ -1,0 +1,76 @@
+.style{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.style img{
+    height: 330px;
+}
+
+.ons{
+    margin-bottom: 50px;
+}
+
+.footer{
+    margin-top: 75px;
+}
+.fatma{
+    margin-top: 50px;
+    color: gray;
+    border-radius: 4px;
+    text-align: center;
+    border-color: rgb(172, 168, 168);
+}
+
+.space{ 
+    color: gray;
+    margin-left: 10px;
+    border-radius: 4px;
+    text-align: center;
+    background-color: transparent;
+    border-color: rgb(172, 168, 168);
+}
+a{
+    text-decoration: none;
+}
+.title{
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(40, 40, 40);
+    width: 290px;
+   
+    
+}
+.trailer{
+    margin-left: auto ;
+    margin-right: auto ;
+    width: 885px;
+    margin-top: 50px;
+}
+.description{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    word-spacing: 3px;
+    margin-top: 50px
+    
+}
+#spacee:hover {
+    background-color: rgb(238, 238, 238);
+}
+
+.star{
+    size: 50px;
+    color: rgb(204, 204, 204);
+    margin: 1px;
+    margin-left: 15px;
+    
+}
