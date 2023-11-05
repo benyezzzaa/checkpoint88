@@ -4,7 +4,7 @@ import StarRatingComponent from 'react-star-rating-component';
 import { NavLink  , Routes,Route} from 'react-router-dom';
 
 import './css.css'
-import Description from './ Description';
+import Description from './Description';
 
 
 function MovieCard({movie,index}) {

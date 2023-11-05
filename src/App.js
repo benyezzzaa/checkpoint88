@@ -4,7 +4,7 @@ import './App.css';
 import React, { useState } from 'react'
 import MovieList from './MovieList'
 import { Route, Routes } from 'react-router'
-import Description from './ Description'
+import Description from './Description'
 
 function App() {
   const  [list , SetList]=useState([

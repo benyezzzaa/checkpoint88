@@ -4,8 +4,8 @@ import './App.css';
 import { useEffect, useRef, useState } from 'react';
 import MovieCard from './MovieCard';
 import './css.css'
-import Navbarr from './Navbarr';
-import Footer from './ Footer';
+import Navbarr from './Navbar';
+import Footer from './Footer';
 import './css.css'
 import StarRatingComponent from 'react-star-rating-component';
 function MovieList() {

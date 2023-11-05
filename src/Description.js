@@ -1,6 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router'
-import Navbarr from './Navbarr';
+import Navbarr from './Navbar';
 import Footer from './Footer';
 import './css.css'
 import { NavLink } from 'react-router-dom';
